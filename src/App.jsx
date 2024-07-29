@@ -8,7 +8,7 @@ import Projects from './pages/Projects';
 import Header from './components/Header';
 
 
-function App() {
+const App = () => {
 
   return (
     <BrowserRouter>
