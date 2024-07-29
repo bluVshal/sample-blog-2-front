@@ -1,9 +1,9 @@
 import React from 'react'
 
-function Projects() {
+const Projects = () => {
   return (
     <div>
-      
+        <h1> Projects </h1>
     </div>
   )
 }
